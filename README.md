@@ -41,10 +41,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FILIPESILVASANTOS/FILIPESILVASANTOS/output/snake.svg" alt="Snake animation" />
-
-###
